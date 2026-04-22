@@ -1,0 +1,20 @@
+#map {
+    width: 100%;
+    height: calc(100% - 50px);
+}
+
+.header {
+    height: 50px;
+    background-color: #000;
+    color: #fff;
+}
+
+#zoom-in {
+    position: absolute;
+    top: 0;
+}
+
+#zoom-out {
+    position: absolute;
+    top: 20px;
+}
